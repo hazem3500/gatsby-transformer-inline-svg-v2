@@ -1,0 +1,32 @@
+{
+    "name": "gatsby-transformer-inline-svg-v2",
+    "version": "1.0.0",
+    "description": "Inline and optimize SVG's from your GraphQL data source",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hazem3500/gatsby-transformer-inline-svg-v2.git"
+    },
+    "keywords": [
+        "gatsby",
+        "gatsby-plugin",
+        "gatsby-transformer-plugin",
+        "svg",
+        "svgo",
+        "inline-svg",
+        "optimization"
+    ],
+    "author": "Hazem Osama <hazem3500@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hazem3500/gatsby-transformer-inline-svg-v2/issues"
+    },
+    "homepage": "https://github.com/hazem3500/gatsby-transformer-inline-svg-v2#readme",
+    "dependencies": {
+        "gatsby": "^2.24.47",
+        "svgo": "^1.3.2"
+    }
+}
