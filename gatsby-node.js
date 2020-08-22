@@ -44,7 +44,7 @@ const svgo = new SVGO({
         { sortAttrs: true },
         { removeTitle: true },
         { removeDesc: true },
-        { removeDimensions: true },
+        { removeDimensions: false },
         { removeAttrs: false },
         { removeAttributesBySelector: false },
         { removeElementsByAttr: false },
