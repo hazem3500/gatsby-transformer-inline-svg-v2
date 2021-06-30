@@ -8,7 +8,7 @@ Inline and optimize SVG's from your GraphQL data source
 ## Installation
 
 ```sh
-npm i gatsby-transformer-inline-svg
+npm i gatsby-transformer-inline-svg-v2
 ```
 
 ## Usage
