@@ -1,3 +1,6 @@
+# ⚠ Deprication Warning
+This package is deprecated, please use [gatsby-transformer-inline-svg](https://github.com/axe312ger/gatsby-transformer-inline-svg) instead.
+
 # gatsby-transformer-inline-svg-v2
 Inline and optimize SVG's from your GraphQL data source
 
